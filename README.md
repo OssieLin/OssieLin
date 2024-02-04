@@ -1,4 +1,4 @@
-Hello World! I'm a high school student who fascinates about cs and math!
+Hello World! I'm a high school student and fascinated with cs and math!
 
 <!---
 OssieLin/OssieLin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
