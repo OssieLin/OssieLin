@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @OssieLin
-- 👀 I’m interested in basketball and music
-- 🌱 I’m currently learning web development
-- 📫 How to reach me: osmond0629@gmail.com
-
+Hello World! I'm a high school student who fascinates about cs and math!
 
 <!---
 OssieLin/OssieLin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
