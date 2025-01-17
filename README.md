@@ -7,7 +7,7 @@
 
 [![welcome demo](https://raw.githubusercontent.com/OssieLin/OssieLin.github.io/main/welcome_page.gif)](https://OssieLin.github.io)
 
-# Leetcoding......
+`Leetcoding......`
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Ossie_?font=Courier_Prime)](https://leetcode.com/u/Ossie_/)
 
