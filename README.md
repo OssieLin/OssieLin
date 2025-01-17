@@ -9,7 +9,7 @@
 
 # Leetcoding......
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=Ossie_)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ossie_)](https://leetcode.com/u/Ossie_/)
 
 <!---
 OssieLin/OssieLin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
