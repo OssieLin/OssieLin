@@ -5,7 +5,7 @@
 
 # Visit me @
 
-[![welcome demo](https://raw.githubusercontent.com/OssieLin/OssieLin.github.io/main/welcome_page.gif)](https://OssieLin.github.io)
+[![welcome demo](https://raw.githubusercontent.com/OssieLin/OssieLin.github.io/main/landing_page.png)](https://OssieLin.github.io)
 
 [`Leetcoding......`](https://github.com/OssieLin/dsa_prep)
 
