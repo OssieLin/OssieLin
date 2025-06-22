@@ -3,7 +3,7 @@
 ![Spidey Swing](https://raw.githubusercontent.com/OssieLin/assets/main/spidey_swing.gif)
 
 
-# Also visit me @
+# Visit me @
 
 [![welcome demo](https://raw.githubusercontent.com/OssieLin/OssieLin.github.io/main/welcome_page.gif)](https://OssieLin.github.io)
 
